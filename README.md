@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krystian! <br/><a href="https://github.com/krystianczaja">Cybersecurity Enthusiast</a>, 
+<h1>Hi, I'm Krystian! <br/><a href="https://github.com/krystianczaja">Cybersecurity Enthusiast</a> | B.S. in Computer Science (Expected Dec 2025)</h1>
 
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
@@ -25,18 +25,5 @@
 - **SIEM:** Splunk, Chronicle  
 - **Incident Response:** Alert Triage, Phishing Analysis, Playbooks  
 - **Networking & IDS:** Network Protocol Analyzers, Intrusion Detection Systems  
-- **Scripting & Automation:** PowerShell, Python, Bash  
-- **Operating Systems:** Linux, Windows  
-- **Other:** File Integrity Monitoring, Data Analysis, ETL Pipelines  
+- **Scripting & Automation:** PowerShell, Python,
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Krystian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Krystian | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Krystian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/krystianczaja/
-[github]: https://github.com/krystianczaja
-[youtube]: https://www.youtube.com/placeholder
