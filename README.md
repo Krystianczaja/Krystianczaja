@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krystian! <br/><a href="https://github.com/krystianczaja">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/krystianczaja/">SOC Analyst in Training</a></h1>
+<h1>Hi, I'm Krystian! <br/><a href="https://github.com/krystianczaja">Cybersecurity Enthusiast</a>, 
 
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
