@@ -7,7 +7,12 @@
   
   - This SOC Analyst lab simulates real-world alerts where I investigated a phishing email and a firewall block. I triaged alerts, verified threats safely in a VM, and documented findings, gaining hands-on experience with SOC workflows and tools like Splunk, TryHackMe, and TryDetectThis.
 
-<h2> Certificates </h2>
+<h2>📜 Certificates</h2>
+
+- **Linux Essentials** – Linux Professional Institute, 2025  
+- **CompTIA Security+** – In Progress  
+- **ITIL 4 Foundation Certificate in IT Service Management** – PeopleCert, 2025
+
 
 <h2>🛠️ Skills & Tools</h2>
 
