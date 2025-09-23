@@ -9,7 +9,8 @@
 
 <h2>📜 Certificates</h2>
 
-- **Linux Essentials** – Linux Professional Institute, 2025  
+- **Linux Essentials** – Linux Professional Institute, 2025
+![Certificate](https://i.imgur.com/ndSvsbu.png)
 - **CompTIA Security+** – In Progress  
 - **ITIL 4 Foundation Certificate in IT Service Management** – PeopleCert, 2025
 
