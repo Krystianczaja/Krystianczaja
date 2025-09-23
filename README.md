@@ -19,8 +19,12 @@
 
 <h2>🛠️ Skills & Tools</h2>
 
-- **SIEM:** Splunk, Chronicle  
-- **Incident Response:** Alert Triage, Phishing Analysis, Playbooks  
-- **Networking & IDS:** Network Protocol Analyzers, Intrusion Detection Systems  
-- **Scripting & Automation:** PowerShell, Python,
+**🔍 SIEM & Security Monitoring:** Splunk, Chronicle, Alert Queues, Playbooks  
+**🛡️ Incident Response:** Phishing Analysis, Firewall Review, Threat Verification, Ticket Documentation  
+**🌐 Networking & Protocols:** TCP/IP, DNS, HTTP/S, Network Protocol Analyzers, IDS  
+**💻 Operating Systems:** Linux, Windows  
+**💾 Data & Analysis:** SQL, R, ETL Pipelines, Reporting & Dashboards  
+**💻 Scripting & Automation:** Python, PowerShell, Bash  
+**🔒 Cybersecurity Fundamentals:** Access Control, Vulnerability Assessment, Risk Analysis, Security Best Practices  
+**🛠️ Other Tools:** Packet Capture/Analysis, Logging Tools, Security Dashboards
 
