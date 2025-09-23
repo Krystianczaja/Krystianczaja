@@ -2,7 +2,8 @@
 
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
-- <b>SOC Simulation: Phishing and Firewall Response](https://github.com/Krystianczaja/SocAnalystPhishingLab))</b>
+[SOC Simulation: Phishing and Firewall Response](https://github.com/Krystianczaja/SocAnalystPhishingLab)
+
   
   - This SOC Analyst lab simulates real-world alerts where I investigated a phishing email and a firewall block. I triaged alerts, verified threats safely in a VM, and documented findings, gaining hands-on experience with SOC workflows and tools like Splunk, TryHackMe, and TryDetectThis.
 
