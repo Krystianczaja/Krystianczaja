@@ -13,6 +13,7 @@
 ![Certificate](https://i.imgur.com/ndSvsbu.png)
 - **CompTIA Security+** – In Progress  
 - **ITIL 4 Foundation Certificate in IT Service Management** – PeopleCert, 2025
+
 ![SOC Analyst Certificate](https://i.imgur.com/x2ZYBJr.png)
 
 
