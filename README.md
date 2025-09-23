@@ -3,7 +3,7 @@
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
 - <b>TryHackMe SOC Analyst Simulation</b>
-  - [Phishing Attack Response & SIEM Alerts](https://github.com/krystianczaja/tryhackme-soc-simulation)
+  - [Phishing Attack Response & SIEM Alerts](https://github.com/Krystianczaja/SocAnalystPhishingLab)
   - Responded to simulated phishing attacks, analyzed email headers, and escalated critical threats using Splunk.
 
 
