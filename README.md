@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krystian! <br/><a href="https://github.com/krystianczaja">Cybersecurity Enthusiast</a> | B.S. in Computer Science (Expected Dec 2025)</h1>
+<h1>Hi, I'm Krystian! Cybersecurity Enthusiast| B.S. in Computer Science (Expected Dec 2025)</h1>
 
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
