@@ -14,11 +14,6 @@
 - <b>Network & Threat Analysis</b>
   - Simulated threat detection scenarios, IDS configuration, and log analysis using Python scripts and network protocol analyzers.
 
-<h2>📺 Cybersecurity Demos</h2>
-
-- [TryHackMe SOC Analyst Walkthrough](https://www.youtube.com/placeholder)  
-- [JWipe Disk Sanitization Demonstration](https://youtu.be/7eJexJVCqJo)  
-- [Home Lab SIEM Setup Tutorial](https://www.youtube.com/placeholder)  
 
 <h2>🛠️ Skills & Tools</h2>
 
