@@ -1,4 +1,9 @@
-<h1>Hi, I'm Krystian! Cybersecurity Enthusiast| B.S. in Computer Science (Expected Dec 2025)</h1>
+# Hi, I'm Krystian 👋
+
+### Cybersecurity Enthusiast | B.S. in Computer Science (Expected Dec 2025)
+
+Welcome to my GitHub profile! I'm passionate about cybersecurity and currently pursuing a Bachelor's degree in Computer Science, expected to graduate in December 2025. Here, you'll find a collection of my projects, labs, and contributions that showcase my skills and interests in the field.
+
 
 <h2>🔐 Cybersecurity Projects & Labs:</h2>
 
